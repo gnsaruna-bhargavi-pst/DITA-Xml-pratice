@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to divide numbers</title>
+    <shortdesc>Here you will find instructions about using the division feature of JPS
+        calculator</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fmq_m3k_5fc">
+            <p>To sucessfully divide numbers, you must know what is division</p>
+        </prereq>
+        <context id="context_e5k_xhl_5fc"/>
+        <steps id="steps_f5k_xhl_5fc">
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the divide (/) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equlas (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_nyf_djk_5fc">
+            <p>The results from divisions are displayed</p>
+        </result>
+        <example id="example_sm3_hjk_5fc">
+            <p>You want to divide 2 from 6. The equation will look like 6/2=3. You enter 6 , press /
+                , enter 2, press equlas</p>
+            <p>The result 3 displays on screen</p>
+        </example>
+    </taskbody>
+</task>

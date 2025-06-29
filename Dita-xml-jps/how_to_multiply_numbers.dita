@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to Multiply numbers</title>
+    <shortdesc>Here you will find instructions about using the multiply feature of JPS
+        calculator</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fmq_m3k_5fc">
+            <p>To sucessfully multiply numbers, you must know what is multiply</p>
+        </prereq>
+        <context id="context_w4j_s3l_5fc"/>
+        <steps id="steps_x4j_s3l_5fc">
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose  the multiply (x) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equlas (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_nyf_djk_5fc">
+            <p>The results from multplications are displayed</p>
+        </result>
+        <example id="example_sm3_hjk_5fc">
+            <p>You want to multiply 2 from 3 . The equation will look like 3*2=6. You enter 3 ,
+                press X , enter 2, press equlas</p>
+            <p>The result 6 displays on screen</p>
+        </example>
+    </taskbody>
+</task>

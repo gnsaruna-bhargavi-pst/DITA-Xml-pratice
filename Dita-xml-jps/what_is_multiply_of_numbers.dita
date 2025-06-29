@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtract_of_numbers">
+    <title>What is multiply of numbers</title>
+    <shortdesc>Here you will learn what is multiplication</shortdesc>
+    <conbody>
+        <p>Multiplication is the process of adding a number to itself a certain number of times. </p>
+        <p>On a calculator, you enter the<b> first number</b>,<b> press the multiply (× or *)
+                button</b>, <b>enter the second number,</b> then <b>press equals (=)</b> to get the
+            result. </p>
+        <p>It shows the total when one number is repeated multiple times.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>end-user-Jps-calculator</title>
+    <topichead navtitle="sum-up">
+        <topicref href="what_is_sum_of_numbers.dita"/>
+        <topicref href="how_to_sum_up_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="subtract">
+        <topicref href="what_is_subtract_of_numbers.dita"/>
+        <topicref href="how_to_subtract_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="divide">
+        <topicref href="what_is_divide_of_numbers.dita"/>
+        <topicref href="how_to_divide_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="multiply">
+        <topicref href="what_is_multiply_of_numbers.dita"/>
+        <topicref href="how_to_multiply_numbers.dita"/>
+    </topichead>
+</map>

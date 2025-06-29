@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtract_of_numbers">
+    <title>What is divide of numbers</title>
+    <shortdesc>Here you will learn what is division</shortdesc>
+    <conbody>
+        <p>Division is the process of<b> splitting </b>a number into equal parts. </p>
+        <p>When using a calculator, you enter the first number, press the divide (÷ or /) button,
+            enter the second number, then press equals (=) to get the result.</p>
+        <p> It tells you how many times one number fits into another.</p>
+    </conbody>
+</concept>
