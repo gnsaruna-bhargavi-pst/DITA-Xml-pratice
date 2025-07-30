@@ -4,11 +4,14 @@
     <title>What is Sum-up of numbers</title>
     <shortdesc>Here you will learn what is sum-up.</shortdesc>
     <conbody>
-        <p>Subtraction is the process of finding the <b>addition between two numbers</b> by taking
-            adding number into  another. </p>
-        <p>When using a calculator, you <b>enter the first number</b>, <b>press the plus (+)</b>
-            button, <b>enter the second number</b>, <b>then press equals (=)</b> to get the
-            result.</p>
+        <p>Subtraction is the process of finding the addition between two numbers by taking adding
+            number into another. </p>
+        <p>When using a calculator, <ul id="ul_cvq_dhs_dgc">
+                <li>Enter the first number.</li>
+                <li>Click plus icon.</li>
+                <li>Enter the second number.</li>
+                <li>Click equals icon.</li>
+            </ul>   to get the result.</p>
         <p> It shows how much remains after adding  one value into another.</p>
     </conbody>
 </concept>
